@@ -1,0 +1,5 @@
+This is a Python implementation of the A* pathfinding algorithm.
+
+Utilizes Python 2.72. Algorithm is contained in AStar.py. To see the algorithm in action, run example.py.
+
+Questions or comments should go to moytravis+github@gmail.com. If you happen to find anything unclear, or if you spot a refinement that could be made, please do send me a tell. If you end up using it, please do contact me - I'd like to know where it ends up.
